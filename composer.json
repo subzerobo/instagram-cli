@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mgp25/instagram-php": "^6.1",
+        "splitbrain/php-cli": "^1.1"
+    }
+}
